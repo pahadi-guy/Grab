@@ -8,8 +8,8 @@ function App() {
   return (
     <>
       {/* <FetchApi /> */}
-      <Login />
-      {/* <Home /> */}
+      {/* <Login /> */}
+      <Home />
     </>
   );
 }
